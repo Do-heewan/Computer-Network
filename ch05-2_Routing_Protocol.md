@@ -23,7 +23,7 @@
     - AS 내 모든 라우터는 동일한 intra-domain 프로토콜 실행
     - 다른 AS는 서로 다른 intra-domain 라우팅 프로토콜 사용 가능
 
-### Intra-AS 라우팅 - 도메인 간 라우팅
+### Inter-AS 라우팅 - 도메인 간 라우팅
 - 정의 : AS들 간의 라우팅
 - 특징 : 게이트웨이 라우터가 inter-domain과 intra-domain 라우팅 모두 수행
 
